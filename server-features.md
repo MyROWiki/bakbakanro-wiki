@@ -17,23 +17,27 @@ The playable world is limited to content appropriate for **Episode 12: The Demis
 
 ## Classic pRO-Inspired Client Experience
 
-BakbakanRO preserves several interface and account features inspired by the old Philippine Ragnarok Online experience. The goal is to keep the client familiar, simple, and close to the classic era instead of replacing it with a modernized interface.
+If you played old **pRO**, BakbakanRO is designed to bring back that familiar classic feeling. The user interface and selected client features follow the style many players remember from the old Philippine Ragnarok Online era, helping the game feel immediately familiar while keeping the server focused on classic gameplay.
 
 ### Old Classic UI
 
-BakbakanRO uses a classic-style Ragnarok Online interface that keeps the familiar look and feel of older pRO clients. Menus, windows, and core interface elements are intentionally kept close to the classic presentation whenever possible.
+BakbakanRO preserves an old-school Ragnarok interface style, including the familiar character creation screen and classic in-game window layout used by many pRO players.
+
+![Classic character creation preview](images/character-select-preview.jpg)
+
+![Classic in-game UI preview](images/classic-ui-preview.jpg)
 
 ### Kafra Storage Password
 
-The client includes a **Kafra Storage Password** system for an additional layer of protection when accessing storage. This feature follows the classic style associated with older official Ragnarok Online clients.
+For added account protection, BakbakanRO supports a **Kafra Storage Password** system inspired by the classic pRO setup.
+
+![Kafra Storage Password preview](images/kafra-password-preview.jpg)
 
 ### Simple Cash Shop
 
-BakbakanRO uses a **Simple Cash Shop** interface instead of a later-generation cash shop design. This keeps the experience visually consistent with the server's classic direction.
+BakbakanRO also includes a **Simple Cash Shop** interface that matches the straightforward and familiar style many players remember from old pRO.
 
-### Client Preview
-
-*A screenshot preview of the BakbakanRO classic client experience will be added here.*
+![Simple Cash Shop preview](images/simple-cash-shop-preview.jpg)
 
 ## Classic & Expanded Classes
 
@@ -87,4 +91,4 @@ BakbakanRO supports competitive and community activities such as PvP rankings, M
 
 ---
 
-This page is an overview. More detailed PvP, WoE, Premium, rankings, and event guides will be added as the wiki expands.
+This page is an overview. More detailed PvP, WoE, Premium, rankings, event, and client feature guides will be added as the wiki expands.
