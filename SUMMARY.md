@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Home / Welcome](README.md)
+* [Home](README.md)
 * [Server Information](server-information.md)
 * [Getting Started](getting-started.md)
 * [Server Features](server-features.md)
