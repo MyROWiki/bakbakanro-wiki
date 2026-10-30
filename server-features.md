@@ -75,15 +75,17 @@ All schedules use GMT+8 server time.
 
 **MoE** runs every **Wednesday and Sunday, 8:00 PM–9:00 PM (GMT+8)**.
 
-## Premium Account
+## Premium Account Services
 
-Premium is an optional account-wide service that provides:
+Premium is an optional account-wide service that provides the following benefits while active:
 
-- +20% EXP
-- +20% Drop Rate
-- +300 additional storage capacity
+- **+50% EXP Rate**
+- **+50% Drop Rate**
+- **50% Reduced Death Penalty**
+- **Increased Kafra Storage**
+- **Access to the Dungeon Teleport NPC and Agit Maps**
 
-Additional Premium services and restrictions will receive their own detailed guide.
+Premium is designed to provide additional convenience and progression benefits while preserving BakbakanRO's classic gameplay direction.
 
 ## Rankings & Events
 
