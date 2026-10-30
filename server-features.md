@@ -15,6 +15,26 @@ BakbakanRO combines classic Pre-Renewal gameplay with competitive and convenienc
 
 The playable world is limited to content appropriate for **Episode 12: The Demise of Morroc** and earlier. Third Jobs and later-era progression are not part of the normal server world.
 
+## Classic pRO-Inspired Client Experience
+
+BakbakanRO preserves several interface and account features inspired by the old Philippine Ragnarok Online experience. The goal is to keep the client familiar, simple, and close to the classic era instead of replacing it with a modernized interface.
+
+### Old Classic UI
+
+BakbakanRO uses a classic-style Ragnarok Online interface that keeps the familiar look and feel of older pRO clients. Menus, windows, and core interface elements are intentionally kept close to the classic presentation whenever possible.
+
+### Kafra Storage Password
+
+The client includes a **Kafra Storage Password** system for an additional layer of protection when accessing storage. This feature follows the classic style associated with older official Ragnarok Online clients.
+
+### Simple Cash Shop
+
+BakbakanRO uses a **Simple Cash Shop** interface instead of a later-generation cash shop design. This keeps the experience visually consistent with the server's classic direction.
+
+### Client Preview
+
+*A screenshot preview of the BakbakanRO classic client experience will be added here.*
+
 ## Classic & Expanded Classes
 
 Alongside the regular and Transcendent class paths, BakbakanRO supports:
