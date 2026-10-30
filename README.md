@@ -1,38 +1,55 @@
-# Welcome to BakbakanRO
+# BakbakanRO Wiki
 
-Welcome to the **official BakbakanRO Game Wiki**.
+Welcome to the **official BakbakanRO Game Wiki** — your player guide for server information, progression, features, and Episode 12 content.
 
-BakbakanRO brings back the classic Ragnarok Online experience with a focus on **Pre-Renewal gameplay, PvP, War of Emperium, MVP hunting, and Episode 12: The Demise of Morroc**.
+**Classic Pre-Renewal • 99/70 • Episode 12: The Demise of Morroc**
 
-This wiki is the official player reference for server information, game mechanics, classes, maps, monsters, items, NPCs, events, PvP, WoE, and BakbakanRO-specific features.
+BakbakanRO is built around the classic Ragnarok Online experience, with a focus on character progression, MVP hunting, PvP, War of Emperium, and the world of Rune-Midgard before Third Jobs.
 
-## Start Your Journey
+## Start Here
 
-New to BakbakanRO? Begin with the **Getting Started** guide to prepare your account and client, then learn the basic server settings before entering Rune-Midgard.
+| Guide | What you'll find |
+| --- | --- |
+| [Server Information](server-information.md) | Core rates, level limits, class availability, and gameplay settings |
+| [Getting Started](getting-started.md) | Account, client, patching, first login, and beginner steps |
+| [Server Features](server-features.md) | PvP, WoE, MVP hunting, Premium, rankings, events, and player services |
+| [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, classic progression, Satan Morroc, and related content |
 
-- [Getting Started](getting-started.md)
-- [Server Information](server-information.md)
-- [Server Features](server-features.md)
-- [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)
+## Server at a Glance
+
+| Setting | Value |
+| --- | --- |
+| Game Type | Pre-Renewal |
+| Maximum Level | 99/70 |
+| Maximum Stat | 99 |
+| Maximum ASPD | 190 |
+| Instant Cast | 150 DEX |
+| Base EXP | x1 |
+| Job EXP | x1 |
+| Drop Rate | x1 |
+| Classes | Transcendent + classic Expanded classes |
+| Current Episode | Episode 12: The Demise of Morroc |
 
 ## Classic Ragnarok Experience
 
-BakbakanRO is built around the classic **99/70 Pre-Renewal** era. The server includes Transcendent classes and classic Expanded classes while keeping the world focused on content available up to Episode 12.
+BakbakanRO keeps progression centered on the classic era. Players can advance through regular and Transcendent class paths, with classic Expanded options including **Super Novice, Taekwon Kid, Soul Linker, Taekwon Master, Ninja, and Gunslinger**.
 
-Whether your goal is leveling, farming, MVP hunting, PvP, or War of Emperium, this wiki will help you understand the systems and content available on the server.
+Third Jobs and later-era advanced class progression are not part of the server's Episode 12 setting.
+
+Whether your goal is leveling, farming equipment and cards, hunting MVPs, building for PvP, or competing in War of Emperium, this wiki is intended to be the official reference for the systems available on BakbakanRO.
 
 ## Current Episode
 
 ### Episode 12: The Demise of Morroc
 
-The world of Rune-Midgard has reached the era of **The Demise of Morroc**. Players can explore the classic towns, fields, dungeons, monsters, MVPs, equipment, and systems available within BakbakanRO's Episode 12 setting.
+The world has reached the era of **The Demise of Morroc**, where the destruction surrounding Morroc and the threat of **Satan Morroc** define one of classic Ragnarok Online's major story periods.
 
-## Official Information
+BakbakanRO's playable world is focused on content available up to Episode 12 and the earlier episodes leading into it.
 
-Information published in this wiki should be treated as the official reference for BakbakanRO gameplay and server features.
+[Read the Episode 12 overview →](episode-12-the-demise-of-morroc.md)
 
-Server systems may change as BakbakanRO develops. Important changes will be reflected in the wiki and official announcements.
+## About This Wiki
 
----
+This wiki is the official player reference for BakbakanRO. It will continue to expand with detailed guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
 
-**Welcome to BakbakanRO. Prepare your character, gather your party, and begin your journey through Rune-Midgard.**
+Server mechanics may change as BakbakanRO develops. Important changes will be reflected here and through official server announcements.
