@@ -62,14 +62,17 @@ Players can test builds, equipment, and teamwork through supported PvP environme
 
 ## War of Emperium
 
-Current WoE schedule:
+### Temporary Beta Schedule
 
-| Day | Time | Guild Area |
-| --- | --- | --- |
-| Wednesday | 8:00 PM–9:00 PM | Horn |
-| Saturday | 8:00 PM–9:00 PM | Vidblainn |
+While BakbakanRO is still in its **Free/Beta stage**, War of Emperium is temporarily scheduled **every day from 8:00 PM to 9:00 PM (GMT+8)**.
 
-All schedules use GMT+8 server time.
+This temporary daily schedule gives players and guilds more opportunities to test WoE gameplay, castle participation, balance, and server performance while the server is still being evaluated. The permanent WoE schedule will be finalized later based on the community, guild activity, and overall server population.
+
+| Day | Time |
+| --- | --- |
+| Every Day | 8:00 PM–9:00 PM |
+
+This schedule is temporary and may change after the Beta stage.
 
 ## Premium Account Services
 
