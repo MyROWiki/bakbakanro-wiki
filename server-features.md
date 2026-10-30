@@ -1,30 +1,23 @@
 # Server Features
 
-BakbakanRO combines classic Pre-Renewal Ragnarok Online gameplay with server systems designed to support progression, competition, and community activities without moving beyond the Episode 12 era.
+BakbakanRO combines classic Pre-Renewal gameplay with competitive and convenience systems designed for the 99/70 Episode 12 era.
 
-## Classic Pre-Renewal Gameplay
+## Classic Pre-Renewal
 
-The server follows the classic 99/70 style of Ragnarok Online.
-
-- Pre-Renewal mechanics
-- Maximum Base Level 99
-- Maximum Job Level 70
-- Maximum stat 99
-- Maximum ASPD 190
-- Instant cast at 150 DEX
-- x1 Base EXP
-- x1 Job EXP
-- x1 Drop Rate
+- Maximum Base / Job Level: 99/70
+- Maximum Stat: 99
+- Maximum ASPD: 190
+- Instant Cast: 150 DEX
+- Base EXP / Job EXP / Drop Rate: x1 / x1 / x1
+- Maximum Drop Rate: 90%
 
 ## Episode 12 World
 
-BakbakanRO is focused on content available up to **Episode 12: The Demise of Morroc**.
+The playable world is limited to content appropriate for **Episode 12: The Demise of Morroc** and earlier. Third Jobs and later-era progression are not part of the normal server world.
 
-Later-episode maps and Third Job progression are not part of the normal server world. This keeps character builds, equipment progression, maps, and competitive gameplay centered around the classic era.
+## Classic & Expanded Classes
 
-## Classic and Expanded Classes
-
-In addition to the regular and Transcendent class paths, players can choose from the classic Expanded classes available in this era:
+Alongside the regular and Transcendent class paths, BakbakanRO supports:
 
 - Super Novice
 - Taekwon Kid
@@ -33,50 +26,45 @@ In addition to the regular and Transcendent class paths, players can choose from
 - Ninja
 - Gunslinger
 
+## MVP Hunting & PK
+
+Classic MVP hunting is a major part of progression and competition. **PK is enabled on MVP maps**, so players may face other adventurers while competing for MVP monsters and their drops.
+
+BakbakanRO also includes MVP ranking activities for additional competitive goals.
+
 ## PvP
 
-Player versus Player is an important part of BakbakanRO. Players can test builds, equipment, and teamwork against other adventurers in supported PvP environments.
-
-Dedicated PvP information, rankings, and rules will be documented in a separate PvP guide.
+Players can test builds, equipment, and teamwork through supported PvP environments and ranking systems.
 
 ## War of Emperium
 
-Guild competition is supported through **War of Emperium (WoE)**. Guilds can organize parties, build strategies, and compete for control of castles during scheduled WoE periods.
+Current WoE schedule:
 
-A dedicated WoE page will contain schedules, castle information, rules, and rewards.
+| Day | Time | Guild Area |
+| --- | --- | --- |
+| Wednesday | 8:00 PM–9:00 PM | Horn |
+| Saturday | 8:00 PM–9:00 PM | Vidblainn |
 
-## MVP Hunting
+All schedules use GMT+8 server time.
 
-Classic MVP hunting remains an important part of progression and competition. Players can hunt MVP monsters for rare equipment, cards, and other valuable drops.
+## MoE
 
-BakbakanRO also supports MVP-related ranking and competitive activities.
+**MoE** runs every **Wednesday and Sunday, 8:00 PM–9:00 PM (GMT+8)**.
 
 ## Premium Account
 
-BakbakanRO includes an optional **Premium Account** system that provides additional account benefits while active.
+Premium is an optional account-wide service that provides:
 
-Premium is designed as an account-wide convenience feature. Full benefits, duration options, limitations, and expiration behavior will be documented on a dedicated Premium Account page.
+- +20% EXP
+- +20% Drop Rate
+- +300 additional storage capacity
 
-## Rankings and Competitive Systems
+Additional Premium services and restrictions will receive their own detailed guide.
 
-The server includes ranking systems for competitive activities such as PvP and MVP hunting. These systems give players additional goals beyond normal character progression.
+## Rankings & Events
 
-## Events and Community Activities
-
-BakbakanRO may run scheduled and special activities such as:
-
-- PvP events
-- Guild events
-- MVP activities
-- Monster Race
-- Seasonal or special server events
-
-Event schedules and rules will be announced through official BakbakanRO channels and documented in the wiki when appropriate.
-
-## Player Services and NPCs
-
-Important NPC services are available throughout the world to help players with character progression and server-specific systems. Separate wiki pages will document their locations, requirements, and functions.
+BakbakanRO supports competitive and community activities such as PvP rankings, MVP rankings, guild events, Monster Race, and special server events.
 
 ---
 
-This page is an overview. Each major feature will receive its own detailed guide as the BakbakanRO Wiki expands.
+This page is an overview. More detailed PvP, WoE, Premium, rankings, and event guides will be added as the wiki expands.
