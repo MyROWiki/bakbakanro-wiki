@@ -71,10 +71,6 @@ Current WoE schedule:
 
 All schedules use GMT+8 server time.
 
-## MoE
-
-**MoE** runs every **Wednesday and Sunday, 8:00 PM–9:00 PM (GMT+8)**.
-
 ## Premium Account Services
 
 Premium is an optional account-wide service that provides the following benefits while active:
