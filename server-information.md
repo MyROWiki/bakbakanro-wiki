@@ -1,6 +1,6 @@
 # Server Information
 
-BakbakanRO is a **classic Pre-Renewal Ragnarok Online server** focused on the 99/70 era, competitive gameplay, MVP hunting, and Episode 12 content.
+BakbakanRO is a **classic Pre-Renewal Ragnarok Online server** built around the 99/70 era, Episode 12 progression, MVP hunting, PvP, and guild competition.
 
 ## Core Settings
 
@@ -15,20 +15,22 @@ BakbakanRO is a **classic Pre-Renewal Ragnarok Online server** focused on the 99
 | Base EXP Rate | x1 |
 | Job EXP Rate | x1 |
 | Drop Rate | x1 |
-| Episode | Episode 12: The Demise of Morroc |
-| Classes | Transcendent + Expanded |
+| Maximum Drop Rate | 90% |
+| Current Episode | Episode 12: The Demise of Morroc |
+| Classes | Transcendent + classic Expanded classes |
+| MVP Maps | PK enabled |
 
-## Available Class Paths
+## Class Progression
 
-BakbakanRO follows the classic class progression of Ragnarok Online.
+BakbakanRO follows the classic job progression of Ragnarok Online.
 
 ### Regular and Transcendent Classes
 
-Players can progress from Novice into the classic first and second jobs, then rebirth and continue into their Transcendent class path.
+Players can begin as a Novice, advance through the classic first- and second-job paths, then rebirth and continue into their Transcendent class path.
 
-### Expanded Classes
+### Classic Expanded Classes
 
-The following classic Expanded class paths are available:
+The following Expanded class paths are available:
 
 - Super Novice
 - Taekwon Kid
@@ -37,26 +39,31 @@ The following classic Expanded class paths are available:
 - Ninja
 - Gunslinger
 
-Third Jobs and later-era advanced classes are not part of the server's Episode 12 setting.
+Third Jobs and later-era advanced class evolutions are not part of BakbakanRO's Episode 12 progression.
 
 ## Gameplay Focus
 
-BakbakanRO is designed around several classic Ragnarok activities:
+BakbakanRO is designed around the classic activities that defined the 99/70 era:
 
-- Character progression and party leveling
-- Equipment farming
+- Character leveling and job progression
+- Party play
+- Equipment and card farming
 - MVP hunting
 - Player versus Player
 - War of Emperium
 - Guild competition
 - Classic economy and item progression
 
+## MVP Map PK
+
+PK is enabled on MVP maps. Players hunting MVP monsters should be prepared for competition from other players in addition to the MVP encounter itself.
+
 ## Episode Scope
 
-The playable world is intentionally limited to content appropriate for **Episode 12 and earlier**. Later-episode maps and progression are not part of the normal game world.
+The playable world is limited to content appropriate for **Episode 12 and earlier**. Later-episode maps, Third Jobs, and later-generation progression are outside the intended server scope.
 
-For more details, see [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md).
+For an overview of the available era and major content leading into Morroc, see [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md).
 
 ## Official Reference
 
-This page summarizes the server's main gameplay settings. If a value or mechanic is changed in the future, the current version of this wiki should be used as the official player reference.
+This page summarizes BakbakanRO's main gameplay settings. When a server setting changes, the current version of this wiki should be treated as the player-facing reference.
