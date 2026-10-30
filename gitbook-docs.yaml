@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: BakbakanRO Wiki
+  structure:
+    - type: space
+      key: bakbakanro-wiki
+      title: BakbakanRO Wiki
+      path: wiki
+      default: true
+      content:
+        directory: ./
