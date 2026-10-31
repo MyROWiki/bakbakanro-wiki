@@ -1,6 +1,6 @@
 # Premium Account Services
 
-Premium is an optional account-wide service that provides additional convenience and progression benefits while preserving BakbakanRO's classic gameplay direction.
+Premium is an optional account-wide service that provides additional convenience and progression benefits while preserving the server's classic gameplay direction.
 
 ## Premium Benefits
 
