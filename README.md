@@ -1,3 +1,5 @@
+![BakbakanRO Wiki Cover](images/bakbakanro-wiki-cover.png)
+
 # The Classic pRO Experience Returns
 
 Welcome to the **official BakbakanRO Game Wiki** — your player guide for server information, progression, features, and Episode 12 content.
