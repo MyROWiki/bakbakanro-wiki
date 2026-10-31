@@ -88,6 +88,37 @@ Premium is an optional account-wide service that provides the following benefits
 - **50% Reduced Death Penalty**
 - **Increased Kafra Storage**
 - **Access to the Dungeon Teleport NPC and Agit Maps**
+- **Change Name Service** — a **Ticket of Identification is still required** when using this service.
+- **Repair Service**
+
+### Premium Kafra NPC Locations
+
+Premium services are available from the **Kafra Premium Service** NPC at the following locations:
+
+| Town | Coordinates |
+| --- | --- |
+| Izlude | `133,104` |
+| Geffen | `135,53` |
+| Alberta | `91,60` |
+| Payon | `190,104` |
+| Morocc | `153,53` |
+| Aldebaran | `137,119` |
+| Yuno | `149,187` |
+| Yuno | `150,118` |
+| Comodo | `185,153` |
+| Umbala | `89,159` |
+| Niflheim | `201,184` |
+| Lutie | `152,127` |
+| Ayothaya | `212,173` |
+| Amatsu | `102,154` |
+| Gonryun | `162,122` |
+| Louyang | `207,104` |
+| Einbroch | `240,208` |
+| Lighthalzen | `164,187` |
+| Rachel | `111,141` |
+| Veins | `204,128` |
+| Moscovia | `226,191` |
+| Hugel | `98,167` |
 
 Premium is designed to provide additional convenience and progression benefits while preserving BakbakanRO's classic gameplay direction.
 
