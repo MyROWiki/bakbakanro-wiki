@@ -9,8 +9,25 @@ BakbakanRO combines classic Pre-Renewal gameplay with competitive and convenienc
 - Maximum ASPD: 190
 - Instant Cast: 150 DEX
 - Base EXP / Job EXP Rate: x1 / x1
-- Free/Beta non-MVP monster drops: 90%
+- Non-MVP monster drops: 90%
 - MVP default drops: x1
+
+## Permanently Free-to-Play & Ready for Action
+
+The server is **permanently free-to-play** and is designed to help players prepare quickly for **PvP, War of Emperium, and MVP hunting**.
+
+Players receive **free Zeny** that can be used in the in-game shops to purchase:
+
+- Armor and equipment
+- Cards and Headgears
+- Potions and consumables
+- Supplies and other essentials
+
+A **Job Changer NPC** and **Miracle Tonic** are also available so players can build and prepare characters faster.
+
+The purpose of these features is to reduce unnecessary preparation time while keeping the actual PvP, WoE, MVP, and classic gameplay experience at the center of the server.
+
+Premium is optional and is not required to access the core game.
 
 ## Episode 12 World
 
@@ -67,17 +84,15 @@ Players can test builds, equipment, and teamwork through supported PvP environme
 
 ## War of Emperium
 
-### Temporary Beta Schedule
+### Current Schedule
 
-While the server is still in its **Free/Beta stage**, War of Emperium is temporarily scheduled **every day from 8:00 PM to 9:00 PM (GMT+8)**.
+War of Emperium is currently scheduled **every day from 8:00 PM to 9:00 PM (GMT+8)**.
 
-This temporary daily schedule gives players and guilds more opportunities to test WoE gameplay, castle participation, balance, and server performance while the server is still being evaluated. The permanent WoE schedule will be finalized later based on the community, guild activity, and overall server population.
+The daily schedule gives players and guilds more opportunities to participate in WoE, test builds and teamwork, and compete for castles. The schedule may be adjusted later based on community activity, guild participation, and overall server population.
 
 | Day | Time |
 | --- | --- |
 | Every Day | 8:00 PM–9:00 PM |
-
-This schedule is temporary and may change after the Beta stage.
 
 ## Premium Account
 
