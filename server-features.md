@@ -93,6 +93,10 @@ Premium is an optional account-wide service that provides the following benefits
 
 ### Premium Kafra NPC Locations
 
+Look for the **Kafra Premium Service** NPC shown below:
+
+![Kafra Premium Service](images/kafra-premium-service.gif)
+
 Premium services are available from the **Kafra Premium Service** NPC at the following locations:
 
 | Town | Coordinates |
