@@ -37,21 +37,23 @@ The server is built around the classic Ragnarok Online experience, with a focus 
 | Instant Cast | 150 DEX |
 | Base EXP | x1 |
 | Job EXP | x1 |
-| Free/Beta Drop Rate | 90% for non-MVP monster drops |
+| Non-MVP Drop Rate | 90% |
 | MVP Default Drops | x1 |
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |
 
-## Free/Beta Testing Convenience
+## Permanently Free-to-Play & Ready for Action
 
-During the **Free/Beta stage**, several conveniences are available so players can quickly test builds, PvP, MVP hunting, equipment, and other server features without spending too much time preparing a character.
+The server is **permanently free-to-play** and is designed to help players get ready for PvP, War of Emperium, and MVP hunting without spending excessive time preparing basic equipment and supplies.
 
-- Players receive **100,000,000 Zeny** upon login for testing purposes.
-- Shops provide a wide selection of testing equipment and supplies, including **Armor, Cards, Headgears, Potions, consumables, and other essentials**.
+- Players receive **free Zeny** to purchase the equipment and supplies they need.
+- In-game shops offer **Armor, equipment, Cards, Headgears, Potions, consumables, supplies, and other essentials** that can be purchased using Zeny.
 - A **Job Changer NPC** is available for faster class progression.
-- **Miracle Tonic** can be purchased from the shop. Use it as needed to quickly level your character until reaching the maximum Base Level of **99**.
+- **Miracle Tonic** can be purchased in-game and used as needed to quickly reach the maximum Base Level of **99**.
 
-These conveniences are intended for the current Free/Beta testing period and may be adjusted as the server moves toward its permanent configuration.
+The goal is simple: spend less time preparing and more time testing builds, fighting in PvP, joining WoE, and hunting MVPs.
+
+Premium is an optional account-wide service and is **not required to access the core game**.
 
 ## Classic Ragnarok Experience
 
