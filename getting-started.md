@@ -56,13 +56,21 @@ Before leveling, review [Server Information](server-information.md). Key setting
 - Maximum ASPD 190
 - Instant cast at 150 DEX
 - x1 Base EXP and x1 Job EXP
-- During Free/Beta: 90% non-MVP monster drops
+- 90% non-MVP monster drops
 - MVP default drops remain x1
 - PK enabled on MVP maps
 
 For the current MVP map list, see [MVP & PK Maps](mvp-pk-maps.md).
 
-## 7. Begin Your Adventure
+## 7. Get Ready for PvP, WoE & MVP Hunting
+
+The server is **permanently free-to-play**. Players receive free Zeny that can be used in the in-game shops to purchase Armor, equipment, Cards, Headgears, Potions, supplies, and other essentials.
+
+A **Job Changer NPC** and **Miracle Tonic** are also available to help you prepare your character faster and reach the maximum Base Level of 99.
+
+The goal is to let players spend less time preparing and more time testing builds, joining PvP and WoE, and hunting MVPs.
+
+## 8. Begin Your Adventure
 
 From here you can focus on leveling, farming, party play, MVP hunting, PvP, War of Emperium, and guild activities throughout the Episode 12 world.
 
