@@ -4,9 +4,17 @@ The server uses **Bunny Corp. Staff (Wendy)** as the reward-claim NPC for eligib
 
 ## NPC Location
 
+Look for **Bunny Corp. Staff (Wendy)** in Alberta:
+
+![Bunny Corp. Staff (Wendy) sprite](images/4_F_PINKWOMAN.gif)
+
 | NPC | Town | Coordinates |
 | --- | --- | --- |
 | Bunny Corp. Staff (Wendy) | Alberta | `148,53` |
+
+The screenshot below shows the NPC location in-game:
+
+![Bunny Corp. Staff (Wendy) in Alberta](images/reward_npc.png)
 
 ## How Reward Claiming Works
 
@@ -18,8 +26,6 @@ Use this NPC whenever a server event, promotion, or reward notice instructs you 
 
 If you have an available reward waiting at Wendy, a notification will appear when you log in.
 
-The notification is intended to let you know that a reward is ready to be claimed, so you can travel to Alberta and speak with **Bunny Corp. Staff (Wendy)**.
+The notification lets you know that a reward is ready to be claimed, so you can travel to Alberta and speak with **Bunny Corp. Staff (Wendy)**.
 
-## Images
-
-Images for the reward notification, NPC location, and Wendy's sprite will be added once they are uploaded to the wiki image folder.
+![Reward available notification](images/reward_notification.jpg)
