@@ -20,11 +20,11 @@ Most regular items and monster drop tables follow Episode 12 data. Selected head
 
 ## Classic pRO-Inspired Client Experience
 
-If you played old **pRO**, BakbakanRO is designed to bring back that familiar classic feeling. The user interface and selected client features follow the style many players remember from the old Philippine Ragnarok Online era, helping the game feel immediately familiar while keeping the server focused on classic gameplay.
+If you played old **pRO**, the server is designed to bring back that familiar classic feeling. The user interface and selected client features follow the style many players remember from the old Philippine Ragnarok Online era, helping the game feel immediately familiar while keeping the server focused on classic gameplay.
 
 ### Old Classic UI
 
-BakbakanRO preserves an old-school Ragnarok interface style, including the familiar character creation screen and classic in-game window layout used by many pRO players.
+The server preserves an old-school Ragnarok interface style, including the familiar character creation screen and classic in-game window layout used by many pRO players.
 
 ![Classic character creation preview](images/character-select-preview.jpg)
 
@@ -32,19 +32,19 @@ BakbakanRO preserves an old-school Ragnarok interface style, including the famil
 
 ### Kafra Storage Password
 
-For added account protection, BakbakanRO supports a **Kafra Storage Password** system inspired by the classic pRO setup.
+For added account protection, the server supports a **Kafra Storage Password** system inspired by the classic pRO setup.
 
 ![Kafra Storage Password preview](images/kafra-password-preview.jpg)
 
 ### Simple Cash Shop
 
-BakbakanRO also includes a **Simple Cash Shop** interface that matches the straightforward and familiar style many players remember from old pRO.
+The server also includes a **Simple Cash Shop** interface that matches the straightforward and familiar style many players remember from old pRO.
 
 ![Simple Cash Shop preview](images/simple-cash-shop-preview.jpg)
 
 ## Classic & Expanded Classes
 
-Alongside the regular and Transcendent class paths, BakbakanRO supports:
+Alongside the regular and Transcendent class paths, the server supports:
 
 - Super Novice
 - Taekwon Kid
@@ -57,7 +57,7 @@ Alongside the regular and Transcendent class paths, BakbakanRO supports:
 
 Classic MVP hunting is a major part of progression and competition. **PK is enabled on MVP maps**, so players may face other adventurers while competing for MVP monsters and their drops.
 
-BakbakanRO also includes MVP ranking activities for additional competitive goals.
+The server also includes MVP ranking activities for additional competitive goals.
 
 See [MVP & PK Maps](mvp-pk-maps.md) for the current Episode 12 MVP-map list.
 
@@ -69,7 +69,7 @@ Players can test builds, equipment, and teamwork through supported PvP environme
 
 ### Temporary Beta Schedule
 
-While BakbakanRO is still in its **Free/Beta stage**, War of Emperium is temporarily scheduled **every day from 8:00 PM to 9:00 PM (GMT+8)**.
+While the server is still in its **Free/Beta stage**, War of Emperium is temporarily scheduled **every day from 8:00 PM to 9:00 PM (GMT+8)**.
 
 This temporary daily schedule gives players and guilds more opportunities to test WoE gameplay, castle participation, balance, and server performance while the server is still being evaluated. The permanent WoE schedule will be finalized later based on the community, guild activity, and overall server population.
 
@@ -87,7 +87,7 @@ For activation instructions, Premium benefits, notifications, Premium Kafra serv
 
 ## Rankings & Events
 
-BakbakanRO supports competitive and community activities such as PvP rankings, MVP rankings, guild events, Monster Race, and special server events.
+The server supports competitive and community activities such as PvP rankings, MVP rankings, guild events, Monster Race, and special server events.
 
 ---
 
