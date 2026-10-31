@@ -4,11 +4,11 @@ Welcome to the **official BakbakanRO Game Wiki** — your player guide for serve
 
 **Classic Pre-Renewal • 99/70 • Episode 12: The Demise of Morroc**
 
-BakbakanRO is built around the classic Ragnarok Online experience, with a focus on character progression, MVP hunting, PvP, War of Emperium, and the world of Rune-Midgard before Third Jobs.
+The server is built around the classic Ragnarok Online experience, with a focus on character progression, MVP hunting, PvP, War of Emperium, and the world of Rune-Midgard before Third Jobs.
 
 ## Official Links
 
-- [BakbakanRO Website](https://bakbakanro.com/home)
+- [Official Website](https://bakbakanro.com/home)
 - [Community Page](https://bakbakanro.com/home/community)
 - [Discord](https://bakbakanro.com/home/community) — use the Discord link available on the Community page.
 
@@ -41,11 +41,11 @@ BakbakanRO is built around the classic Ragnarok Online experience, with a focus 
 
 ## Classic Ragnarok Experience
 
-BakbakanRO keeps progression centered on the classic era. Players can advance through regular and Transcendent class paths, with classic Expanded options including **Super Novice, Taekwon Kid, Soul Linker, Taekwon Master, Ninja, and Gunslinger**.
+The server keeps progression centered on the classic era. Players can advance through regular and Transcendent class paths, with classic Expanded options including **Super Novice, Taekwon Kid, Soul Linker, Taekwon Master, Ninja, and Gunslinger**.
 
 Third Jobs and later-era advanced class progression are not part of the server's Episode 12 setting.
 
-Whether your goal is leveling, farming equipment and cards, hunting MVPs, building for PvP, or competing in War of Emperium, this wiki is intended to be the official reference for the systems available on BakbakanRO.
+Whether your goal is leveling, farming equipment and cards, hunting MVPs, building for PvP, or competing in War of Emperium, this wiki is intended to be the official reference for the systems available on the server.
 
 ## Current Episode
 
@@ -53,12 +53,12 @@ Whether your goal is leveling, farming equipment and cards, hunting MVPs, buildi
 
 The world has reached the era of **The Demise of Morroc**, where the destruction surrounding Morroc and the threat of **Satan Morroc** define one of classic Ragnarok Online's major story periods.
 
-BakbakanRO's playable world is focused on content available up to Episode 12 and the earlier episodes leading into it. Selected headgears, Cash Shop items, and Cash Box items may include content up to Episode 13 without changing the server's main Episode 12 progression.
+The playable world is focused on content available up to Episode 12 and the earlier episodes leading into it. Selected headgears, Cash Shop items, and Cash Box items may include content up to Episode 13 without changing the server's main Episode 12 progression.
 
 [Read the Episode 12 overview →](episode-12-the-demise-of-morroc.md)
 
 ## About This Wiki
 
-This wiki is the official player reference for BakbakanRO. It will continue to expand with detailed guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
+This wiki is the official player reference for the server. It will continue to expand with detailed guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
 
-Server mechanics may change as BakbakanRO develops. Important changes will be reflected here and through official server announcements.
+Server mechanics may change as development continues. Important changes will be reflected here and through official server announcements.
