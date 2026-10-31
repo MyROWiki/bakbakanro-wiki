@@ -8,12 +8,15 @@ BakbakanRO combines classic Pre-Renewal gameplay with competitive and convenienc
 - Maximum Stat: 99
 - Maximum ASPD: 190
 - Instant Cast: 150 DEX
-- Base EXP / Job EXP / Drop Rate: x1 / x1 / x1
-- Maximum Drop Rate: 90%
+- Base EXP / Job EXP Rate: x1 / x1
+- Free/Beta non-MVP monster drops: 90%
+- MVP default drops: x1
 
 ## Episode 12 World
 
 The playable world is limited to content appropriate for **Episode 12: The Demise of Morroc** and earlier. Third Jobs and later-era progression are not part of the normal server world.
+
+Most regular items and monster drop tables follow Episode 12 data. Selected headgears, Cash Shop items, and Cash Box items may include content up to Episode 13. See [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) for the full item, drop, and map scope.
 
 ## Classic pRO-Inspired Client Experience
 
@@ -55,6 +58,8 @@ Alongside the regular and Transcendent class paths, BakbakanRO supports:
 Classic MVP hunting is a major part of progression and competition. **PK is enabled on MVP maps**, so players may face other adventurers while competing for MVP monsters and their drops.
 
 BakbakanRO also includes MVP ranking activities for additional competitive goals.
+
+See [MVP & PK Maps](mvp-pk-maps.md) for the current Episode 12 MVP-map list.
 
 ## PvP
 
