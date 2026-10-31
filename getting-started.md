@@ -8,7 +8,7 @@ Register through the official BakbakanRO account page. Use a unique password and
 
 ## 2. Download the Game
 
-Download the latest official BakbakanRO client and install it in its own folder.
+Download the latest official [BakbakanRO client](https://bakbakanro.com/home/download) and install it in its own folder.
 
 For the best experience:
 
