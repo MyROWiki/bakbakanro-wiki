@@ -6,13 +6,20 @@ Welcome to the **official BakbakanRO Game Wiki** — your player guide for serve
 
 BakbakanRO is built around the classic Ragnarok Online experience, with a focus on character progression, MVP hunting, PvP, War of Emperium, and the world of Rune-Midgard before Third Jobs.
 
+## Official Links
+
+- [BakbakanRO Website](https://bakbakanro.com/home)
+- [Community Page](https://bakbakanro.com/home/community)
+- [Discord](https://bakbakanro.com/home/community) — use the Discord link available on the Community page.
+
 ## Start Here
 
 | Guide | What you'll find |
 | --- | --- |
 | [Server Information](server-information.md) | Core rates, level limits, class availability, and gameplay settings |
 | [Getting Started](getting-started.md) | Account, client, patching, first login, and beginner steps |
-| [Server Features](server-features.md) | PvP, WoE, MVP hunting, Premium, rankings, events, and player services |
+| [Server Features](server-features.md) | PvP, WoE, MVP hunting, rankings, events, and player services |
+| [Premium Account Services](premium-account-services.md) | Premium benefits, activation, notifications, Kafra Premium services, and NPC locations |
 | [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, item/drop rules, maps, Satan Morroc, and related content |
 | [MVP & PK Maps](mvp-pk-maps.md) | Current Episode 12 MVP maps where PK is enabled |
 
