@@ -35,11 +35,14 @@ Monster spawn locations have not been custom-relocated simply to match third-par
 
 ## Episode 12 Map Note: Ant Hell
 
-In BakbakanRO's Episode 12 map setup, the entrance to **Ant Hell** is found on:
+In BakbakanRO's Episode 12 map setup, the entrance to **Ant Hell** is found on **`moc_fild20`** and is **not located on `cmd_fild08`**.
 
-- **`moc_fild20`**
+The marked map below shows the two Ant Hell entrances:
 
-It is **not located on `cmd_fild08`**.
+- **`anthell01`** — lower-left entrance
+- **`anthell02`** — upper-right entrance
+
+![Episode 12 Ant Hell entrances on moc_fild20](images/moc_fild20.bmp)
 
 Players using guides from other Ragnarok versions should keep this Episode 12 map difference in mind.
 
