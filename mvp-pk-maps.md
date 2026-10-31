@@ -2,7 +2,7 @@
 
 BakbakanRO uses **PK-enabled MVP maps** for the Episode 12 era. Players hunting MVPs on the maps below should be prepared for competition from other players as well as the MVP encounter itself.
 
-The list below reflects the current BakbakanRO Episode 12 MVP-map configuration.
+The list below reflects the current Episode 12 MVP-map configuration.
 
 | Map | MVP / Encounter |
 | --- | --- |
@@ -57,4 +57,4 @@ The list below reflects the current BakbakanRO Episode 12 MVP-map configuration.
 
 PK is enabled on the listed MVP maps. This means MVP hunting can involve both monster combat and player competition.
 
-MVP availability, map configuration, and other Beta-stage settings may still be adjusted as BakbakanRO develops.
+MVP availability, map configuration, and other Beta-stage settings may still be adjusted as the server develops.
