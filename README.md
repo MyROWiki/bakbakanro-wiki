@@ -40,6 +40,17 @@ The server is built around the classic Ragnarok Online experience, with a focus 
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |
 
+## Free/Beta Testing Convenience
+
+During the **Free/Beta stage**, several conveniences are available so players can quickly test builds, PvP, MVP hunting, equipment, and other server features without spending too much time preparing a character.
+
+- Players receive **100,000,000 Zeny** upon login for testing purposes.
+- Shops provide a wide selection of testing equipment and supplies, including **Armor, Cards, Headgears, Potions, consumables, and other essentials**.
+- A **Job Changer NPC** is available for faster class progression.
+- **Miracle Tonic** can be purchased from the shop. Use it as needed to quickly level your character until reaching the maximum Base Level of **99**.
+
+These conveniences are intended for the current Free/Beta testing period and may be adjusted as the server moves toward its permanent configuration.
+
 ## Classic Ragnarok Experience
 
 The server keeps progression centered on the classic era. Players can advance through regular and Transcendent class paths, with classic Expanded options including **Super Novice, Taekwon Kid, Soul Linker, Taekwon Master, Ninja, and Gunslinger**.
