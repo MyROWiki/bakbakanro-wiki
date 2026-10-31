@@ -57,4 +57,4 @@ The list below reflects the current Episode 12 MVP-map configuration.
 
 PK is enabled on the listed MVP maps. This means MVP hunting can involve both monster combat and player competition.
 
-MVP availability, map configuration, and other Beta-stage settings may still be adjusted as the server develops.
+MVP availability and map configuration may still be adjusted as the server develops.
