@@ -16,7 +16,9 @@ While Premium is active, the account receives:
 
 ## How to Become Premium
 
-To activate Premium, obtain a **Premium Box** and use the item on your account. Once the Premium Box is used, the account becomes Premium.
+To activate Premium, obtain a **Premium Box** and use the item on your account. Simply use the Premium Box item and the account will become Premium.
+
+![Premium Box](images/premium-box.png)
 
 Premium Boxes can be purchased from the **Cash Merchant in Prontera** and from Cash Merchants located in other towns.
 
@@ -30,6 +32,8 @@ When an account has active Premium status, a Premium notification is shown on sc
 - Whenever changing maps
 
 If the account is **not Premium**, this Premium notification is not shown.
+
+![Premium Account Notification](images/premium-account-notification.png)
 
 ## Premium Kafra Services
 
