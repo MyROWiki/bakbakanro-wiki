@@ -30,7 +30,7 @@ These are temporary Beta-stage settings and may be adjusted later as the server 
 
 ## Class Progression
 
-BakbakanRO follows the classic job progression of Ragnarok Online.
+The server follows the classic job progression of Ragnarok Online.
 
 ### Regular and Transcendent Classes
 
@@ -47,11 +47,11 @@ The following Expanded class paths are available:
 - Ninja
 - Gunslinger
 
-Third Jobs and later-era advanced class evolutions are not part of BakbakanRO's Episode 12 progression.
+Third Jobs and later-era advanced class evolutions are not part of the server's Episode 12 progression.
 
 ## Gameplay Focus
 
-BakbakanRO is designed around the classic activities that defined the 99/70 era:
+The server is designed around the classic activities that defined the 99/70 era:
 
 - Character leveling and job progression
 - Party play
@@ -76,4 +76,4 @@ For item, monster-drop, map, and database scope details, see [Episode 12: The De
 
 ## Official Reference
 
-This page summarizes BakbakanRO's main gameplay settings. When a server setting changes, the current version of this wiki should be treated as the player-facing reference.
+This page summarizes the server's main gameplay settings. When a setting changes, the current version of this wiki should be treated as the player-facing reference.
