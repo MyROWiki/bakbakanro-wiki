@@ -27,15 +27,15 @@ These exceptions do not change the server's main Episode 12 progression, maps, c
 
 Monster drop tables follow **Episode 12 data**.
 
-Because of this, drop information found on third-party databases such as **RateMyServer.net** may not always match BakbakanRO. External websites may display data from a different episode, server version, or later database revision.
+Because of this, drop information found on third-party databases such as **RateMyServer.net** may not always match the server. External websites may display data from a different episode, server version, or later database revision.
 
-BakbakanRO plans to add an in-game **`/database`** feature so players can check the actual monster drops used by the server directly in-game.
+The server plans to add an in-game **`/database`** feature so players can check the actual monster drops directly in-game.
 
 Monster spawn locations have not been custom-relocated simply to match third-party databases. The server follows its intended Episode 12 world and map setup.
 
 ## Episode 12 Map Note: Ant Hell
 
-In BakbakanRO's Episode 12 map setup, the entrance to **Ant Hell** is found on **`moc_fild20`** and is **not located on `cmd_fild08`**.
+In the server's Episode 12 map setup, the entrance to **Ant Hell** is found on **`moc_fild20`** and is **not located on `cmd_fild08`**.
 
 The marked map below shows the two Ant Hell entrances:
 
@@ -48,7 +48,7 @@ Players using guides from other Ragnarok versions should keep this Episode 12 ma
 
 ## Major Content Leading to Episode 12
 
-BakbakanRO includes major classic areas introduced before the Demise of Morroc era, including:
+The server includes major classic areas introduced before the Demise of Morroc era, including:
 
 ### Noghalt
 
