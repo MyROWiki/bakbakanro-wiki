@@ -2,6 +2,8 @@
 
 BakbakanRO is a **classic Pre-Renewal Ragnarok Online server** built around the 99/70 era, Episode 12 progression, MVP hunting, PvP, and guild competition.
 
+The server is **permanently free-to-play**, with optional Premium services available for additional convenience.
+
 ## Core Settings
 
 | Setting | Value |
@@ -14,19 +16,32 @@ BakbakanRO is a **classic Pre-Renewal Ragnarok Online server** built around the 
 | Instant Cast | 150 DEX |
 | Base EXP Rate | x1 |
 | Job EXP Rate | x1 |
-| Free/Beta Drop Rate | 90% for non-MVP monster drops |
+| Non-MVP Drop Rate | 90% |
 | MVP Default Drops | x1 |
 | Current Episode | Episode 12: The Demise of Morroc |
 | Classes | Transcendent + classic Expanded classes |
 | MVP Maps | PK enabled |
 
-## Free/Beta Drop Settings
+## Drop Settings
 
-During the current **Free/Beta stage**, normal non-MVP monster drops are set to **90%**.
+Normal non-MVP monster drops are set to **90%**.
 
-**MVP default drops remain at x1** and are not changed to the Free/Beta 90% rate.
+**MVP default drops remain at x1** and are not changed to the 90% non-MVP rate.
 
-These are temporary Beta-stage settings and may be adjusted later as the server moves toward its permanent configuration.
+## Free-to-Play Access
+
+The server is designed so players can prepare for competitive and end-game activities without needing to purchase basic equipment or supplies with real money.
+
+Players receive **free Zeny** that can be spent in the in-game shops on:
+
+- Armor and equipment
+- Cards and Headgears
+- Potions and consumables
+- Supplies and other essentials
+
+A **Job Changer NPC** and **Miracle Tonic** are also available to help characters get ready faster for **PvP, War of Emperium, and MVP hunting**.
+
+Premium remains optional and is not required to access the core game.
 
 ## Class Progression
 
