@@ -20,6 +20,7 @@ The server is built around the classic Ragnarok Online experience, with a focus 
 | [Getting Started](getting-started.md) | Account, client, patching, first login, and beginner steps |
 | [Server Features](server-features.md) | PvP, WoE, MVP hunting, rankings, events, and player services |
 | [Premium Account Services](premium-account-services.md) | Premium benefits, activation, notifications, Kafra Premium services, and NPC locations |
+| [Claiming Rewards](claiming-rewards.md) | Event and server reward claiming through Bunny Corp. Staff (Wendy) |
 | [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, item/drop rules, maps, Satan Morroc, and related content |
 | [MVP & PK Maps](mvp-pk-maps.md) | Current Episode 12 MVP maps where PK is enabled |
 
