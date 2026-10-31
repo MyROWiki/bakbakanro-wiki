@@ -2,9 +2,9 @@
 
 Welcome to BakbakanRO. Follow these steps before beginning your adventure.
 
-## 1. [Create Your Account](https://bakbakanro.com/home/member/register)
+## 1. Create Your Account
 
-Register through the official account page. Use a unique password and never share your login information with other players.
+Register through the [official website](https://bakbakanro.com/home/member/register). Use a unique password and never share your login information with other players.
 
 ## 2. Download the Game
 
