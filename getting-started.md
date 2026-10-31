@@ -4,7 +4,7 @@ Welcome to BakbakanRO. Follow these steps before beginning your adventure.
 
 ## 1. Create Your Account
 
-Register through the official BakbakanRO account page. Use a unique password and never share your login information with other players.
+Register through the official account page. Use a unique password and never share your login information with other players.
 
 ## 2. Download the Game
 
@@ -13,9 +13,9 @@ Download the latest official [BakbakanRO client](https://bakbakanro.com/home/dow
 For the best experience:
 
 - Do not place it inside another Ragnarok Online installation.
-- Run the BakbakanRO patcher before playing.
+- Run the game patcher before playing.
 - Let all updates finish before launching the client.
-- Use only client files distributed or approved by BakbakanRO.
+- Use only client files distributed or approved by the server.
 
 ## 3. Patch Before Playing
 
@@ -27,7 +27,7 @@ If you encounter missing sprites, maps, items, or interface files, close the cli
 
 After patching:
 
-1. Start BakbakanRO.
+1. Start the game.
 2. Log in with your registered account.
 3. Create your character.
 4. Enter Rune-Midgard as a Novice.
@@ -35,7 +35,7 @@ After patching:
 
 ## 5. Choose Your Path
 
-BakbakanRO uses classic Ragnarok Online class progression. You can follow the regular first- and second-job paths, rebirth into a Transcendent class, or choose one of the classic Expanded paths.
+The server uses classic Ragnarok Online class progression. You can follow the regular first- and second-job paths, rebirth into a Transcendent class, or choose one of the classic Expanded paths.
 
 Expanded options include:
 
@@ -44,7 +44,7 @@ Expanded options include:
 - Ninja
 - Gunslinger
 
-Third Jobs are not part of BakbakanRO's Episode 12 setting.
+Third Jobs are not part of the server's Episode 12 setting.
 
 ## 6. Know the Core Settings
 
@@ -66,6 +66,6 @@ For the current MVP map list, see [MVP & PK Maps](mvp-pk-maps.md).
 
 From here you can focus on leveling, farming, party play, MVP hunting, PvP, War of Emperium, and guild activities throughout the Episode 12 world.
 
-Remember that BakbakanRO's monster drop tables follow Episode 12 data, so third-party databases may not always match the server. An in-game **`/database`** feature is planned to provide the actual server drop information directly in-game.
+Remember that the server's monster drop tables follow Episode 12 data, so third-party databases may not always match. An in-game **`/database`** feature is planned to provide the actual server drop information directly in-game.
 
-Continue with [Server Features](server-features.md) to learn about BakbakanRO's major systems.
+Continue with [Server Features](server-features.md) to learn about the server's major systems.
