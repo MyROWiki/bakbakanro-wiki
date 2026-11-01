@@ -21,6 +21,7 @@ The server is **permanently free-to-play**, with optional Premium services avail
 | Current Episode | Episode 12: The Demise of Morroc |
 | Classes | Transcendent + classic Expanded classes |
 | MVP Maps | PK enabled |
+| Battlegrounds | Currently disabled |
 
 ## Drop Settings
 
@@ -42,6 +43,12 @@ Players receive **free Zeny** that can be spent in the in-game shops on:
 A **Job Changer NPC** and **Miracle Tonic** are also available to help characters get ready faster for **PvP, War of Emperium, and MVP hunting**.
 
 Premium remains optional and is not required to access the core game.
+
+## Battlegrounds Status
+
+Battlegrounds belongs to the **Episode 12 era**, but the feature is **currently disabled on the server**.
+
+Battlegrounds queues, maps, NPC access, and related rewards are not currently available. The wiki will be updated if the feature is enabled later.
 
 ## Class Progression
 
