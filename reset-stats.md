@@ -16,7 +16,9 @@ The Great Alchemist can be found in **Prontera at `155,285`**.
 
 ## Required Item
 
-The reset requires **Premium Reset Stone** <img src="images/premium_reset_stone.png" alt="Premium Reset Stone" width="24">.
+| Required Item | Preview |
+| --- | --- |
+| **Premium Reset Stone** | ![](images/premium_reset_stone.png) |
 
 The number of stones required depends on your **Base Level**.
 
@@ -36,13 +38,13 @@ The Great Alchemist will only perform the reset when all requirements are met:
 - Dismount your **Peco Peco or other mount**.
 - Remove your **Falcon**.
 - Dismount any **Cash Mount**.
-- Carry enough **Premium Reset Stone** <img src="images/premium_reset_stone.png" alt="Premium Reset Stone" width="24"> for your current Base Level.
+- Carry enough **Premium Reset Stones** for your current Base Level.
 
 If any requirement is not met, the reset will not continue.
 
 ## How It Works
 
-1. Prepare the required number of **Premium Reset Stone** <img src="images/premium_reset_stone.png" alt="Premium Reset Stone" width="24"> for your Base Level.
+1. Prepare the required number of **Premium Reset Stones** for your Base Level.
 2. Make sure your Weight is **0** and remove any Cart, Peco/mount, Falcon, or Cash Mount.
 3. Talk to **The Great Alchemist** in Prontera at `155,285`.
 4. Choose **Lets reset NOW**.
@@ -61,7 +63,7 @@ This allows you to rebuild your stat distribution without changing your Base Lev
 
 - **NPC:** The Great Alchemist
 - **Location:** Prontera `155,285`
-- **Required Item:** Premium Reset Stone <img src="images/premium_reset_stone.png" alt="Premium Reset Stone" width="24">
+- **Required Item:** Premium Reset Stone
 - **Base Level 1–40:** 1 Stone
 - **Base Level 41–70:** 2 Stones
 - **Base Level 71–90:** 3 Stones
