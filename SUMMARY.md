@@ -7,7 +7,7 @@
 * [NPC & Services](npc-services.md)
   * [Gym Pass — Ripped Cabus](gym-pass.md)
   * [Reset Stats — The Great Alchemist](reset-stats.md)
-* [Premium Account Services](premium-account-services.md)
+  * [Premium Account Services](premium-account-services.md)
 * [Claiming Rewards](claiming-rewards.md)
 * [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)
 * [MVP & PK Maps](mvp-pk-maps.md)
