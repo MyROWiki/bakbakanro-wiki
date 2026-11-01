@@ -16,7 +16,9 @@ Ripped Cabus can be found in **Prontera at `150,280`**.
 
 ## What You Need
 
-**Required Item:** Gym Membership Card <img src="images/gym_membership_card.bmp" alt="" width="24" height="24">
+**Required Item:** Gym Membership Card
+
+![](images/gym_membership_card.bmp)
 
 Bring **1 Gym Membership Card** each time you want to increase your carrying-capacity training level.
 
