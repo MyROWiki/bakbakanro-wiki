@@ -20,6 +20,12 @@ The Great Alchemist can be found in **Prontera at `155,285`**.
 | --- | --- |
 | **Shard of Odin** | ![](images/premium_reset_stone.png) |
 
+## Where to Get a Shard of Odin
+
+The **Shard of Odin** can be purchased from the **Cash Merchant**.
+
+Purchase enough Shard of Odin items for your Base Level before visiting The Great Alchemist.
+
 The number of **Shard of Odin** required depends on your **Base Level**.
 
 | Base Level | Shard of Odin Required |
@@ -44,7 +50,7 @@ If any requirement is not met, the reset will not continue.
 
 ## How It Works
 
-1. Prepare the required number of **Shard of Odin** for your Base Level.
+1. Purchase the required number of **Shard of Odin** from the Cash Merchant for your Base Level.
 2. Make sure your Weight is **0** and remove any Cart, Peco/mount, Falcon, or Cash Mount.
 3. Talk to **The Great Alchemist** in Prontera at `155,285`.
 4. Choose **Lets reset NOW**.
@@ -64,6 +70,7 @@ This allows you to rebuild your stat distribution without changing your Base Lev
 - **NPC:** The Great Alchemist
 - **Location:** Prontera `155,285`
 - **Required Item:** Shard of Odin
+- **Where to Buy:** Cash Merchant
 - **Base Level 1–40:** 1 Shard of Odin
 - **Base Level 41–70:** 2 Shard of Odin
 - **Base Level 71–90:** 3 Shard of Odin
