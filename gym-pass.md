@@ -2,11 +2,17 @@
 
 **Ripped Cabus** is the Gym Pass NPC in Prontera. Training with him increases your character's item carrying capacity.
 
+![Ripped Cabus NPC](images/gympass_npc_sprte.gif)
+
 ## NPC Location
 
 | NPC | Map | Coordinates |
 | --- | --- | --- |
 | Ripped Cabus | Prontera | `150,280` |
+
+Ripped Cabus can be found in **Prontera at `150,280`**.
+
+![Ripped Cabus location in Prontera](images/gympass_map.jpg)
 
 ## What You Need
 
@@ -14,12 +20,21 @@ Bring **1 Gym Pass** each time you want to increase your carrying-capacity train
 
 Each successful training session consumes **1 Gym Pass**.
 
+![Gym Pass item](images/gym_membership_card.bmp)
+
+## Where to Get a Gym Pass
+
+The **Gym Pass** can be purchased from the **Cash Merchant**.
+
+Purchase a Gym Pass before visiting Ripped Cabus if you want to increase your carrying-capacity training.
+
 ## How It Works
 
-1. Talk to **Ripped Cabus** in Prontera at `150,280`.
-2. Choose **Yes** when he asks if you are ready to train.
-3. If you have a Gym Pass, he will consume one pass and increase your carrying-capacity training by one level.
-4. Repeat the process if you want to increase it further.
+1. Purchase a **Gym Pass** from the Cash Merchant.
+2. Talk to **Ripped Cabus** in Prontera at `150,280`.
+3. Choose **Yes** when he asks if you are ready to train.
+4. If you have a Gym Pass, he will consume one pass and increase your carrying-capacity training by one level.
+5. Repeat the process if you want to increase it further.
 
 Your Gym Pass training can be increased a maximum of **10 times**.
 
@@ -48,6 +63,7 @@ If the character has never trained with Ripped Cabus before, there is no previou
 - **NPC:** Ripped Cabus
 - **Location:** Prontera `150,280`
 - **Required Item:** Gym Pass
+- **Where to Buy:** Cash Merchant
 - **Cost per Training:** 1 Gym Pass
 - **Maximum Trainings:** 10
 - **Purpose:** Increase item carrying capacity
