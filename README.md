@@ -21,6 +21,7 @@ The server is built around the classic Ragnarok Online experience, with a focus 
 | [Server Information](server-information.md) | Core rates, level limits, class availability, and gameplay settings |
 | [Getting Started](getting-started.md) | Account, client, patching, first login, and beginner steps |
 | [Server Features](server-features.md) | PvP, WoE, MVP hunting, rankings, events, and player services |
+| [NPC & Services](npc-services.md) | NPC locations, requirements, and guides for useful player services |
 | [Premium Account Services](premium-account-services.md) | Premium benefits, activation, notifications, Kafra Premium services, and NPC locations |
 | [Claiming Rewards](claiming-rewards.md) | Event and server reward claiming through Bunny Corp. Staff (Wendy) |
 | [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, item/drop rules, maps, Satan Morroc, and related content |
