@@ -4,6 +4,8 @@
 * [Server Information](server-information.md)
 * [Getting Started](getting-started.md)
 * [Server Features](server-features.md)
+* [NPC & Services](npc-services.md)
+  * [Gym Pass — Ripped Cabus](gym-pass.md)
 * [Premium Account Services](premium-account-services.md)
 * [Claiming Rewards](claiming-rewards.md)
 * [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)
