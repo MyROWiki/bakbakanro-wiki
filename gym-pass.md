@@ -16,31 +16,31 @@ Ripped Cabus can be found in **Prontera at `150,280`**.
 
 ## What You Need
 
-Bring ![Gym Membership Card](images/gym_membership_card.bmp) **1 Gym Membership Card** each time you want to increase your carrying-capacity training level.
+Bring **1 Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24"> each time you want to increase your carrying-capacity training level.
 
-Each successful training session consumes **1 Gym Membership Card**.
+Each successful training session consumes **1 Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24">.
 
 ## Where to Get a Gym Membership Card
 
-The ![Gym Membership Card](images/gym_membership_card.bmp) **Gym Membership Card** can be purchased from the **Cash Merchant**.
+The **Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24"> can be purchased from the **Cash Merchant**.
 
-Purchase a Gym Membership Card before visiting Ripped Cabus if you want to increase your carrying-capacity training.
+Purchase a **Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24"> before visiting Ripped Cabus if you want to increase your carrying-capacity training.
 
 ## How It Works
 
-1. Purchase a **Gym Membership Card** from the Cash Merchant.
+1. Purchase a **Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24"> from the Cash Merchant.
 2. Talk to **Ripped Cabus** in Prontera at `150,280`.
 3. Choose **Yes** when he asks if you are ready to train.
-4. If you have a Gym Membership Card, he will consume one card and increase your carrying-capacity training by one level.
+4. If you have a **Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24">, he will consume one card and increase your carrying-capacity training by one level.
 5. Repeat the process if you want to increase it further.
 
 Your carrying-capacity training can be increased a maximum of **10 times**.
 
 | Training Status | Result |
 | --- | --- |
-| 0–9 previous sessions | You may train again with 1 Gym Membership Card |
+| 0–9 previous sessions | You may train again with 1 **Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24"> |
 | 10 completed sessions | Maximum carrying-capacity training reached |
-| No Gym Membership Card | Training cannot continue |
+| No **Gym Membership Card** <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24"> | Training cannot continue |
 
 ## Maximum Training Limit
 
@@ -60,9 +60,9 @@ If the character has never trained with Ripped Cabus before, there is no previou
 
 - **NPC:** Ripped Cabus
 - **Location:** Prontera `150,280`
-- **Required Item:** ![Gym Membership Card](images/gym_membership_card.bmp) **Gym Membership Card**
+- **Required Item:** Gym Membership Card <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24">
 - **Where to Buy:** Cash Merchant
-- **Cost per Training:** 1 Gym Membership Card
+- **Cost per Training:** 1 Gym Membership Card <img src="images/gym_membership_card.bmp" alt="Gym Membership Card" width="24">
 - **Maximum Trainings:** 10
 - **Purpose:** Increase item carrying capacity
 - **Recovery Option:** “Um, my workouts wore off.” restores previously recorded training
